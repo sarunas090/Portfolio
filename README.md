@@ -4,21 +4,28 @@ Web Developer Portfolio
 Welcome to my Web Developer Portfolio! This repository showcases my skills, projects, and experience as an entry-level web developer. Feel free to explore the projects and code samples to get a better understanding of my capabilities.
 
 Table of Contents
-About Me
-Services
-Portfolio
-Contact 
+
+- About Me
+- Services
+- Portfolio
+- Contact 
 
 Education
+
 Bachelor's Degree in Mathematics (NKUA)
+
 Certifications
+
 The Web Development Bootcamp 2023 (Udemy)
 
 Projects
 Project 1: Ping Pong Score Keeper App
+
 Description: A sleek and user-friendly Ping Pong score keeper app that simplifies score tracking for players and spectators alike. 
 GitHub Repository: Link to the GitHub repository for the project, including code and documentation.
+
 Project 2: Weather App
+
 Description: The weather application will provide you with real-time weather information and other weather-related data. 
 GitHub Repository: Link to the GitHub repository for the project, including code and documentation.
 
