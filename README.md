@@ -34,10 +34,15 @@ Here are some of the key skills and technologies I have experience with as a web
 - Familiar in working with databases (MongoDB and SQL), designing schemas, and writing database queries to store and retrieve data efficiently.
 
 Contact Information
-Email: giannis_apostolakis@hotmail.con
+
+Email: giannis_apostolakis@hotmail.com
+
 LinkedIn: https://www.linkedin.com/in/giannis-apostolakis-335bb3260
+
 GitHub: https://github.com/sarunas090/Portfolio
+
 Portfolio Website: https://giannisapostolakis.netlify.app
+
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities, collaborations, and learning experiences.
 
 Thank you for visiting my portfolio! Your feedback and suggestions are greatly appreciated.
