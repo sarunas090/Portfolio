@@ -19,13 +19,14 @@ Certifications
 The Web Development Bootcamp 2023 (Udemy)
 
 Projects
-Project 1: Ping Pong Score Keeper App
 
+Project 1: Ping Pong Score Keeper App
+ 
 Description: A sleek and user-friendly Ping Pong score keeper app that simplifies score tracking for players and spectators alike. 
 GitHub Repository: Link to the GitHub repository for the project, including code and documentation.
 
 Project 2: Weather App
-
+ 
 Description: The weather application will provide you with real-time weather information and other weather-related data. 
 GitHub Repository: Link to the GitHub repository for the project, including code and documentation.
 
